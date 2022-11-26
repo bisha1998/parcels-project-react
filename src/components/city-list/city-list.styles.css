@@ -1,0 +1,5 @@
+.city-header {
+	display: flex;
+	padding-bottom: 10px;
+	overflow-x: auto;
+}

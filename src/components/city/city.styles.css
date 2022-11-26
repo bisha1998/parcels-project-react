@@ -1,0 +1,22 @@
+h1 {
+	font-size: 20px;
+	margin: 0 2px 50px;
+	padding: 8px 20px;
+	text-align: center;
+}
+
+.mumbai {
+	background: #f1959b;
+}
+
+.delhi {
+	background: #ffcc00;
+}
+
+.kolkata {
+	background: #55aaff;
+}
+
+.parcels-grid {
+	display: flex;
+}

@@ -1,0 +1,15 @@
+.parcel-box {
+	margin: 0 2px;
+	text-align: center;
+}
+
+.parcel-name {
+	font-size: 13px;
+	margin-bottom: 5px;
+	color: #fff;
+}
+
+.parcel-seq {
+	padding: 5px 0;
+	width: 100px;
+}
